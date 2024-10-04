@@ -10,6 +10,12 @@ namespace Practica_Clase_S4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("===== EJERCICIO 7 =====\n\n");
+            Ejercicio7.GuardarYSueldosOperarios();
+            Console.WriteLine("\n\n===== EJERCICIO 8 =====\n\n");
+            Ejercicio8.GestionarSueldosEmpleados();
+            Console.WriteLine("\n\n===== EJERCICIO 9 =====\n\n");
+            Ejercicio9.GestionarVector();
         }
     }
 }
